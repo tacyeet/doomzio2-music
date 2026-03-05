@@ -11,6 +11,6 @@ Biome selection
 Advanced settings panel
 
 Biomes:
-Overworld: Forest, Plains, Ocean
+Overworld: Forest, Plains, Desert
 Caves: Crystal Cave, Deep Cavern, Lava Tunnel
 Deep: Ash Wastes, Magma Fields, Void Depths
