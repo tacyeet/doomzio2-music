@@ -1,9 +1,9 @@
 
-Doomz.io 2 Music Engine
+**Doomz.io 2 Music Engine**
 
 Infinite biome adaptive procedural music prototype.
 
-Controls:
+**Controls:**
 
   Pause
   
@@ -13,7 +13,7 @@ Controls:
   
   Advanced settings panel
 
-Biomes:
+**Biomes:**
 
   Overworld: Forest, Plains, Desert
   
